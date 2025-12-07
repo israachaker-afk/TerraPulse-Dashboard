@@ -67,7 +67,7 @@ install.packages("rnaturalearthhires",
 
 Open your terminal/command prompt and run:
 
-git clone https://github.com/yourusername/terrapulse-dashboard. git
+git clone https://github.com/israachaker-afk/terrapulse-dashboard. git
 cd terrapulse-dashboard
 
 #### *Step 2: Open in RStudio*
@@ -232,8 +232,8 @@ Contributions are welcome! Please follow these steps:
 ## 👤 Author
 
 *Your Name*  
-- GitHub: [@israa](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@israachaker-afk.](https://github.com/yourusername)
+- Email:israa.chaker@essai.ucar.tn
 
 ---
 
